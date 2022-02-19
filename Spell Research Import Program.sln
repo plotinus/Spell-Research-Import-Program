@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spell Research Import Program", "Spell Research Import Program\Spell Research Import Program.csproj", "{B1B7A445-9B38-4338-92A7-84C321ED8F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B7A445-9B38-4338-92A7-84C321ED8F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B7A445-9B38-4338-92A7-84C321ED8F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B7A445-9B38-4338-92A7-84C321ED8F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B7A445-9B38-4338-92A7-84C321ED8F72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B94CA3B-2656-42FD-935B-9E21ED8BBDF8}
+	EndGlobalSection
+EndGlobal
